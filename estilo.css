@@ -1,0 +1,95 @@
+body {
+  background-image: linear-gradient(to bottom right, #52458b,	#16c0d6);
+ margin: 0;
+ padding: 0%;
+ min-height: 100vh
+}
+
+
+h1 {
+  transform: translate(900px, 1px);
+  color: #000;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+  
+  
+h2 {
+  transform: translate(1000px,1px);
+  color: #000 ;
+   
+  
+}
+
+p {
+  transform: translate( 800px, 10px);
+font-family: Arial, Helvetica, sans-serif;
+color: #000;
+}
+
+h3 {
+   transform: translate( 830px, 1px);
+   color: #000;
+}
+
+
+nav ul {
+  list-style: none;
+  padding: 0  ;
+  background-color: 	#2f3636;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li a {
+  display: block;
+  padding: 15px;
+  color: white;
+ text-decoration: none;
+ font-weight: bold;
+ 
+}
+
+nav ul li a:hover {
+  background-color: #144e8d;
+}
+
+.imagem-jordan1 {
+  position: relative;
+  top: 150;   /* Move 20px para baixo */
+  left: 15px;  /* Move 50px para a direita */
+  width: 400px;
+ }
+
+ .imagem-jordan2{
+
+  position: relative;
+  top: 150px;   /* Move 20px para baixo */
+  left: 15px;  /* Move 50px para a direita */
+  width: 400px;
+  
+ }
+  
+
+.imagem-jordan3 {
+  position: relative;
+  top: -200px;   /* Move 20px para baixo */
+  right: 350px ;  /* Move 50px para a direita */
+  width: 300px;
+}
+
+
+
+ .imagem-rotativa {
+  position: relative;
+  top: 79px;   /* Move 20px para baixo */
+  left: 499px;  /* Move 50px para a direita */
+  width: 400px;
+  top: -30px;
+ }
+
+
+ 
